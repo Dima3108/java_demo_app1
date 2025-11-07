@@ -1,5 +1,5 @@
 package app1;
 
-public abstract class AbstactC {
+public abstract class AbstractC {
     public abstract String TransformValue(String v);
 }

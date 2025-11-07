@@ -1,6 +1,6 @@
 package app1;
 
-public abstract class TransDecorator extends AbstactC {
+public abstract class TransDecorator extends AbstractC {
     protected TransDecorator loc_dec = null;
 
     @Override
